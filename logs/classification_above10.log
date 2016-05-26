@@ -1,0 +1,1234 @@
+T1
+Features used:
+["clarity", "helpfulness", "easiness"]
+======================================
+
+iter   1  #CD cycles 1
+iter   2  #CD cycles 1
+iter   3  #CD cycles 1
+iter   4  #CD cycles 1
+iter   5  #CD cycles 18
+iter   6  #CD cycles 2
+=========================
+optimization finished, #iter = 6
+Objective value = 294749.153248
+#nonzeros/#features = 3/3
+iter   1  #CD cycles 1
+iter   2  #CD cycles 1
+iter   3  #CD cycles 1
+iter   4  #CD cycles 3
+iter   5  #CD cycles 1
+iter   6  #CD cycles 20
+iter   7  #CD cycles 5
+iter   8  #CD cycles 2
+iter   9  #CD cycles 4
+=========================
+optimization finished, #iter = 9
+Objective value = 294755.391252
+#nonzeros/#features = 3/3
+iter   1  #CD cycles 1
+iter   2  #CD cycles 1
+iter   3  #CD cycles 2
+iter   4  #CD cycles 1
+iter   5  #CD cycles 9
+iter   6  #CD cycles 2
+iter   7  #CD cycles 2
+iter   8  #CD cycles 1
+iter   9  #CD cycles 31
+iter  10  #CD cycles 4
+iter  11  #CD cycles 1
+=========================
+optimization finished, #iter = 11
+Objective value = 294629.316891
+#nonzeros/#features = 3/3
+iter   1  #CD cycles 1
+iter   2  #CD cycles 1
+iter   3  #CD cycles 1
+iter   4  #CD cycles 1
+iter   5  #CD cycles 18
+iter   6  #CD cycles 3
+iter   7  #CD cycles 4
+iter   8  #CD cycles 1
+=========================
+optimization finished, #iter = 8
+Objective value = 294706.880585
+#nonzeros/#features = 3/3
+iter   1  #CD cycles 1
+iter   2  #CD cycles 1
+iter   3  #CD cycles 1
+iter   4  #CD cycles 2
+iter   5  #CD cycles 1
+iter   6  #CD cycles 26
+iter   7  #CD cycles 6
+iter   8  #CD cycles 5
+=========================
+optimization finished, #iter = 8
+Objective value = 294743.767215
+#nonzeros/#features = 3/3
+iter   1  #CD cycles 1
+iter   2  #CD cycles 1
+iter   3  #CD cycles 1
+iter   4  #CD cycles 1
+iter   5  #CD cycles 18
+iter   6  #CD cycles 2
+iter   7  #CD cycles 2
+iter   8  #CD cycles 2
+=========================
+optimization finished, #iter = 8
+Objective value = 294689.434029
+#nonzeros/#features = 3/3
+iter   1  #CD cycles 1
+iter   2  #CD cycles 1
+iter   3  #CD cycles 1
+iter   4  #CD cycles 2
+iter   5  #CD cycles 1
+iter   6  #CD cycles 13
+iter   7  #CD cycles 3
+iter   8  #CD cycles 3
+=========================
+optimization finished, #iter = 8
+Objective value = 294767.999838
+#nonzeros/#features = 3/3
+iter   1  #CD cycles 1
+iter   2  #CD cycles 1
+iter   3  #CD cycles 1
+iter   4  #CD cycles 1
+iter   5  #CD cycles 26
+iter   6  #CD cycles 8
+=========================
+optimization finished, #iter = 6
+Objective value = 294796.932118
+#nonzeros/#features = 3/3
+iter   1  #CD cycles 1
+iter   2  #CD cycles 1
+iter   3  #CD cycles 1
+iter   4  #CD cycles 2
+iter   5  #CD cycles 2
+iter   6  #CD cycles 1
+iter   7  #CD cycles 12
+iter   8  #CD cycles 4
+iter   9  #CD cycles 1
+=========================
+optimization finished, #iter = 9
+Objective value = 294793.314586
+#nonzeros/#features = 3/3
+iter   1  #CD cycles 1
+iter   2  #CD cycles 1
+iter   3  #CD cycles 1
+iter   4  #CD cycles 8
+iter   5  #CD cycles 4
+iter   6  #CD cycles 4
+iter   7  #CD cycles 9
+iter   8  #CD cycles 1
+iter   9  #CD cycles 22
+=========================
+optimization finished, #iter = 9
+Objective value = 294659.129547
+#nonzeros/#features = 3/3
+Cross Validation Accuracy = 58.1249%
+#############################################################################
+T2
+Features used:
+["clarity", "helpfulness", "easiness", "overall_quality"]
+======================================
+
+iter   1  #CD cycles 1
+iter   2  #CD cycles 1
+iter   3  #CD cycles 1
+iter   4  #CD cycles 2
+iter   5  #CD cycles 1
+iter   6  #CD cycles 39
+=========================
+optimization finished, #iter = 6
+Objective value = 294738.594127
+#nonzeros/#features = 4/5
+iter   1  #CD cycles 1
+iter   2  #CD cycles 1
+iter   3  #CD cycles 1
+iter   4  #CD cycles 1
+iter   5  #CD cycles 40
+iter   6  #CD cycles 6
+=========================
+optimization finished, #iter = 6
+Objective value = 294716.637209
+#nonzeros/#features = 4/5
+iter   1  #CD cycles 1
+iter   2  #CD cycles 1
+iter   3  #CD cycles 1
+iter   4  #CD cycles 1
+iter   5  #CD cycles 34
+iter   6  #CD cycles 1
+=========================
+optimization finished, #iter = 6
+Objective value = 294728.439743
+#nonzeros/#features = 4/5
+iter   1  #CD cycles 1
+iter   2  #CD cycles 1
+iter   3  #CD cycles 1
+iter   4  #CD cycles 1
+iter   5  #CD cycles 37
+iter   6  #CD cycles 3
+iter   7  #CD cycles 2
+iter   8  #CD cycles 3
+=========================
+optimization finished, #iter = 8
+Objective value = 294721.414386
+#nonzeros/#features = 4/5
+iter   1  #CD cycles 1
+iter   2  #CD cycles 1
+iter   3  #CD cycles 1
+iter   4  #CD cycles 1
+iter   5  #CD cycles 9
+iter   6  #CD cycles 5
+iter   7  #CD cycles 2
+iter   8  #CD cycles 1
+=========================
+optimization finished, #iter = 8
+Objective value = 294725.549665
+#nonzeros/#features = 4/5
+iter   1  #CD cycles 1
+iter   2  #CD cycles 1
+iter   3  #CD cycles 1
+iter   4  #CD cycles 1
+iter   5  #CD cycles 14
+iter   6  #CD cycles 6
+iter   7  #CD cycles 7
+iter   8  #CD cycles 3
+iter   9  #CD cycles 2
+=========================
+optimization finished, #iter = 9
+Objective value = 294751.864707
+#nonzeros/#features = 4/5
+iter   1  #CD cycles 1
+iter   2  #CD cycles 1
+iter   3  #CD cycles 1
+iter   4  #CD cycles 3
+iter   5  #CD cycles 11
+iter   6  #CD cycles 3
+iter   7  #CD cycles 1
+iter   8  #CD cycles 21
+iter   9  #CD cycles 3
+iter  10  #CD cycles 8
+=========================
+optimization finished, #iter = 10
+Objective value = 294686.968165
+#nonzeros/#features = 4/5
+iter   1  #CD cycles 1
+iter   2  #CD cycles 1
+iter   3  #CD cycles 1
+iter   4  #CD cycles 1
+iter   5  #CD cycles 13
+iter   6  #CD cycles 21
+=========================
+optimization finished, #iter = 6
+Objective value = 294733.143767
+#nonzeros/#features = 4/5
+iter   1  #CD cycles 1
+iter   2  #CD cycles 1
+iter   3  #CD cycles 1
+iter   4  #CD cycles 1
+iter   5  #CD cycles 33
+=========================
+optimization finished, #iter = 5
+Objective value = 294792.181995
+#nonzeros/#features = 4/5
+iter   1  #CD cycles 1
+iter   2  #CD cycles 1
+iter   3  #CD cycles 1
+iter   4  #CD cycles 1
+iter   5  #CD cycles 10
+iter   6  #CD cycles 2
+iter   7  #CD cycles 4
+iter   8  #CD cycles 3
+iter   9  #CD cycles 4
+=========================
+optimization finished, #iter = 9
+Objective value = 294716.389406
+#nonzeros/#features = 4/5
+Cross Validation Accuracy = 58.1239%
+#############################################################################
+T3
+Features used:
+["clarity", "helpfulness", "easiness", "overall_quality", "interest_level"]
+======================================
+
+iter   1  #CD cycles 1
+iter   2  #CD cycles 1
+iter   3  #CD cycles 1
+iter   4  #CD cycles 14
+iter   5  #CD cycles 5
+iter   6  #CD cycles 2
+iter   7  #CD cycles 2
+iter   8  #CD cycles 1
+iter   9  #CD cycles 36
+iter  10  #CD cycles 3
+=========================
+optimization finished, #iter = 10
+Objective value = 294312.291645
+#nonzeros/#features = 5/5
+iter   1  #CD cycles 1
+iter   2  #CD cycles 1
+iter   3  #CD cycles 1
+iter   4  #CD cycles 2
+iter   5  #CD cycles 4
+iter   6  #CD cycles 3
+iter   7  #CD cycles 1
+iter   8  #CD cycles 29
+iter   9  #CD cycles 3
+iter  10  #CD cycles 6
+=========================
+optimization finished, #iter = 10
+Objective value = 294353.967827
+#nonzeros/#features = 5/5
+iter   1  #CD cycles 1
+iter   2  #CD cycles 1
+iter   3  #CD cycles 1
+iter   4  #CD cycles 1
+iter   5  #CD cycles 25
+iter   6  #CD cycles 1
+=========================
+optimization finished, #iter = 6
+Objective value = 294346.400289
+#nonzeros/#features = 5/5
+iter   1  #CD cycles 1
+iter   2  #CD cycles 1
+iter   3  #CD cycles 1
+iter   4  #CD cycles 2
+iter   5  #CD cycles 4
+iter   6  #CD cycles 2
+iter   7  #CD cycles 1
+iter   8  #CD cycles 29
+iter   9  #CD cycles 1
+=========================
+optimization finished, #iter = 9
+Objective value = 294338.703957
+#nonzeros/#features = 5/5
+iter   1  #CD cycles 1
+iter   2  #CD cycles 1
+iter   3  #CD cycles 1
+iter   4  #CD cycles 4
+iter   5  #CD cycles 6
+iter   6  #CD cycles 2
+iter   7  #CD cycles 1
+iter   8  #CD cycles 17
+=========================
+optimization finished, #iter = 8
+Objective value = 294386.062860
+#nonzeros/#features = 5/5
+iter   1  #CD cycles 1
+iter   2  #CD cycles 1
+iter   3  #CD cycles 1
+iter   4  #CD cycles 20
+iter   5  #CD cycles 3
+iter   6  #CD cycles 3
+iter   7  #CD cycles 2
+iter   8  #CD cycles 1
+iter   9  #CD cycles 14
+iter  10  #CD cycles 11
+iter  11  #CD cycles 2
+iter  12  #CD cycles 5
+=========================
+optimization finished, #iter = 12
+Objective value = 294317.105166
+#nonzeros/#features = 5/5
+iter   1  #CD cycles 1
+iter   2  #CD cycles 1
+iter   3  #CD cycles 1
+iter   4  #CD cycles 5
+iter   5  #CD cycles 6
+iter   6  #CD cycles 1
+iter   7  #CD cycles 35
+=========================
+optimization finished, #iter = 7
+Objective value = 294281.749256
+#nonzeros/#features = 5/5
+iter   1  #CD cycles 1
+iter   2  #CD cycles 1
+iter   3  #CD cycles 1
+iter   4  #CD cycles 15
+iter   5  #CD cycles 4
+iter   6  #CD cycles 2
+iter   7  #CD cycles 1
+iter   8  #CD cycles 33
+iter   9  #CD cycles 2
+=========================
+optimization finished, #iter = 9
+Objective value = 294437.638221
+#nonzeros/#features = 5/5
+iter   1  #CD cycles 1
+iter   2  #CD cycles 1
+iter   3  #CD cycles 1
+iter   4  #CD cycles 6
+iter   5  #CD cycles 4
+iter   6  #CD cycles 2
+iter   7  #CD cycles 1
+iter   8  #CD cycles 30
+iter   9  #CD cycles 4
+=========================
+optimization finished, #iter = 9
+Objective value = 294327.890553
+#nonzeros/#features = 5/5
+iter   1  #CD cycles 1
+iter   2  #CD cycles 1
+iter   3  #CD cycles 1
+iter   4  #CD cycles 2
+iter   5  #CD cycles 8
+iter   6  #CD cycles 3
+iter   7  #CD cycles 3
+iter   8  #CD cycles 1
+iter   9  #CD cycles 24
+iter  10  #CD cycles 11
+=========================
+optimization finished, #iter = 10
+Objective value = 294250.479777
+#nonzeros/#features = 5/5
+Cross Validation Accuracy = 58.1212%
+#############################################################################
+T4
+Features used:
+["clarity", "helpfulness", "easiness", "overall_quality", "interest_level", "discipline"]
+======================================
+
+iter   1  #CD cycles 1
+iter   2  #CD cycles 1
+iter   3  #CD cycles 1
+iter   4  #CD cycles 1
+iter   5  #CD cycles 25
+iter   6  #CD cycles 6
+iter   7  #CD cycles 1
+iter   8  #CD cycles 48
+=========================
+optimization finished, #iter = 8
+Objective value = 294155.003720
+#nonzeros/#features = 6/7
+iter   1  #CD cycles 1
+iter   2  #CD cycles 1
+iter   3  #CD cycles 2
+iter   4  #CD cycles 1
+iter   5  #CD cycles 8
+iter   6  #CD cycles 6
+iter   7  #CD cycles 2
+iter   8  #CD cycles 1
+iter   9  #CD cycles 30
+=========================
+optimization finished, #iter = 9
+Objective value = 294190.232064
+#nonzeros/#features = 6/7
+iter   1  #CD cycles 1
+iter   2  #CD cycles 1
+iter   3  #CD cycles 1
+iter   4  #CD cycles 2
+iter   5  #CD cycles 1
+iter   6  #CD cycles 24
+iter   7  #CD cycles 14
+iter   8  #CD cycles 1
+=========================
+optimization finished, #iter = 8
+Objective value = 294138.099445
+#nonzeros/#features = 6/7
+iter   1  #CD cycles 1
+iter   2  #CD cycles 1
+iter   3  #CD cycles 1
+iter   4  #CD cycles 1
+iter   5  #CD cycles 4
+iter   6  #CD cycles 16
+iter   7  #CD cycles 4
+iter   8  #CD cycles 1
+=========================
+optimization finished, #iter = 8
+Objective value = 294133.419127
+#nonzeros/#features = 6/7
+iter   1  #CD cycles 1
+iter   2  #CD cycles 1
+iter   3  #CD cycles 1
+iter   4  #CD cycles 6
+iter   5  #CD cycles 1
+iter   6  #CD cycles 37
+iter   7  #CD cycles 1
+iter   8  #CD cycles 33
+=========================
+optimization finished, #iter = 8
+Objective value = 294170.172643
+#nonzeros/#features = 6/7
+iter   1  #CD cycles 1
+iter   2  #CD cycles 1
+iter   3  #CD cycles 1
+iter   4  #CD cycles 13
+iter   5  #CD cycles 2
+iter   6  #CD cycles 1
+iter   7  #CD cycles 27
+=========================
+optimization finished, #iter = 7
+Objective value = 294186.744142
+#nonzeros/#features = 6/7
+iter   1  #CD cycles 1
+iter   2  #CD cycles 1
+iter   3  #CD cycles 1
+iter   4  #CD cycles 1
+iter   5  #CD cycles 29
+iter   6  #CD cycles 2
+iter   7  #CD cycles 7
+=========================
+optimization finished, #iter = 7
+Objective value = 294151.607545
+#nonzeros/#features = 6/7
+iter   1  #CD cycles 1
+iter   2  #CD cycles 1
+iter   3  #CD cycles 2
+iter   4  #CD cycles 1
+iter   5  #CD cycles 1
+iter   6  #CD cycles 39
+iter   7  #CD cycles 1
+iter   8  #CD cycles 29
+=========================
+optimization finished, #iter = 8
+Objective value = 294144.440623
+#nonzeros/#features = 6/7
+iter   1  #CD cycles 1
+iter   2  #CD cycles 1
+iter   3  #CD cycles 1
+iter   4  #CD cycles 3
+iter   5  #CD cycles 2
+iter   6  #CD cycles 3
+iter   7  #CD cycles 1
+iter   8  #CD cycles 20
+iter   9  #CD cycles 5
+iter  10  #CD cycles 2
+iter  11  #CD cycles 7
+=========================
+optimization finished, #iter = 11
+Objective value = 294134.574343
+#nonzeros/#features = 6/7
+iter   1  #CD cycles 1
+iter   2  #CD cycles 1
+iter   3  #CD cycles 2
+iter   4  #CD cycles 1
+iter   5  #CD cycles 6
+iter   6  #CD cycles 3
+iter   7  #CD cycles 1
+iter   8  #CD cycles 24
+iter   9  #CD cycles 2
+iter  10  #CD cycles 7
+=========================
+optimization finished, #iter = 10
+Objective value = 294122.949924
+#nonzeros/#features = 6/7
+Cross Validation Accuracy = 58.1293%
+#############################################################################
+T5
+Features used:
+["clarity", "helpfulness", "easiness", "overall_quality", "interest_level", "discipline", "state"]
+======================================
+
+iter   1  #CD cycles 1
+iter   2  #CD cycles 1
+iter   3  #CD cycles 1
+iter   4  #CD cycles 3
+iter   5  #CD cycles 1
+iter   6  #CD cycles 13
+=========================
+optimization finished, #iter = 6
+Objective value = 294156.358126
+#nonzeros/#features = 7/7
+iter   1  #CD cycles 1
+iter   2  #CD cycles 1
+iter   3  #CD cycles 1
+iter   4  #CD cycles 4
+iter   5  #CD cycles 1
+iter   6  #CD cycles 36
+=========================
+optimization finished, #iter = 6
+Objective value = 294083.419318
+#nonzeros/#features = 7/7
+iter   1  #CD cycles 1
+iter   2  #CD cycles 1
+iter   3  #CD cycles 1
+iter   4  #CD cycles 1
+iter   5  #CD cycles 19
+iter   6  #CD cycles 1
+iter   7  #CD cycles 39
+=========================
+optimization finished, #iter = 7
+Objective value = 294029.402915
+#nonzeros/#features = 7/7
+iter   1  #CD cycles 1
+iter   2  #CD cycles 1
+iter   3  #CD cycles 1
+iter   4  #CD cycles 5
+iter   5  #CD cycles 6
+iter   6  #CD cycles 2
+iter   7  #CD cycles 4
+iter   8  #CD cycles 1
+iter   9  #CD cycles 30
+iter  10  #CD cycles 2
+=========================
+optimization finished, #iter = 10
+Objective value = 294096.763040
+#nonzeros/#features = 7/7
+iter   1  #CD cycles 1
+iter   2  #CD cycles 1
+iter   3  #CD cycles 2
+iter   4  #CD cycles 1
+iter   5  #CD cycles 3
+iter   6  #CD cycles 2
+iter   7  #CD cycles 2
+iter   8  #CD cycles 2
+iter   9  #CD cycles 1
+iter  10  #CD cycles 26
+iter  11  #CD cycles 1
+=========================
+optimization finished, #iter = 11
+Objective value = 294110.304497
+#nonzeros/#features = 7/7
+iter   1  #CD cycles 1
+iter   2  #CD cycles 1
+iter   3  #CD cycles 1
+iter   4  #CD cycles 6
+iter   5  #CD cycles 1
+iter   6  #CD cycles 24
+iter   7  #CD cycles 5
+iter   8  #CD cycles 7
+iter   9  #CD cycles 2
+=========================
+optimization finished, #iter = 9
+Objective value = 294084.079619
+#nonzeros/#features = 7/7
+iter   1  #CD cycles 1
+iter   2  #CD cycles 1
+iter   3  #CD cycles 1
+iter   4  #CD cycles 7
+iter   5  #CD cycles 1
+iter   6  #CD cycles 26
+=========================
+optimization finished, #iter = 6
+Objective value = 294158.856475
+#nonzeros/#features = 7/7
+iter   1  #CD cycles 1
+iter   2  #CD cycles 1
+iter   3  #CD cycles 1
+iter   4  #CD cycles 2
+iter   5  #CD cycles 2
+iter   6  #CD cycles 1
+iter   7  #CD cycles 3
+iter   8  #CD cycles 7
+=========================
+optimization finished, #iter = 8
+Objective value = 294000.575872
+#nonzeros/#features = 7/7
+iter   1  #CD cycles 1
+iter   2  #CD cycles 1
+iter   3  #CD cycles 1
+iter   4  #CD cycles 4
+iter   5  #CD cycles 1
+iter   6  #CD cycles 28
+=========================
+optimization finished, #iter = 6
+Objective value = 294159.263287
+#nonzeros/#features = 7/7
+iter   1  #CD cycles 1
+iter   2  #CD cycles 1
+iter   3  #CD cycles 1
+iter   4  #CD cycles 9
+iter   5  #CD cycles 1
+iter   6  #CD cycles 20
+=========================
+optimization finished, #iter = 6
+Objective value = 294141.300540
+#nonzeros/#features = 7/7
+Cross Validation Accuracy = 58.1216%
+#############################################################################
+T6
+Features used:
+["interest_history_corr", "clarity", "helpfulness", "easiness", "interest_level", "clar_history_corr", "help_history_corr", "ease_history_corr"]
+======================================
+
+=========================
+optimization finished, #iter = 0
+Objective value = -nan
+#nonzeros/#features = 0/22
+=========================
+optimization finished, #iter = 0
+Objective value = -nan
+#nonzeros/#features = 0/22
+=========================
+optimization finished, #iter = 0
+Objective value = -nan
+#nonzeros/#features = 0/22
+=========================
+optimization finished, #iter = 0
+Objective value = -nan
+#nonzeros/#features = 0/22
+=========================
+optimization finished, #iter = 0
+Objective value = -nan
+#nonzeros/#features = 0/22
+=========================
+optimization finished, #iter = 0
+Objective value = -nan
+#nonzeros/#features = 0/22
+=========================
+optimization finished, #iter = 0
+Objective value = -nan
+#nonzeros/#features = 0/22
+=========================
+optimization finished, #iter = 0
+Objective value = -nan
+#nonzeros/#features = 0/22
+=========================
+optimization finished, #iter = 0
+Objective value = -nan
+#nonzeros/#features = 0/22
+=========================
+optimization finished, #iter = 0
+Objective value = -nan
+#nonzeros/#features = 0/22
+Cross Validation Accuracy = 43.5441%
+#############################################################################
+T7
+Features used:
+["comment_positivity_corr", "comment_negativity_corr"]
+======================================
+
+=========================
+optimization finished, #iter = 0
+Objective value = -nan
+#nonzeros/#features = 0/21
+=========================
+optimization finished, #iter = 0
+Objective value = -nan
+#nonzeros/#features = 0/21
+=========================
+optimization finished, #iter = 0
+Objective value = -nan
+#nonzeros/#features = 0/21
+=========================
+optimization finished, #iter = 0
+Objective value = -nan
+#nonzeros/#features = 0/21
+=========================
+optimization finished, #iter = 0
+Objective value = -nan
+#nonzeros/#features = 0/21
+=========================
+optimization finished, #iter = 0
+Objective value = -nan
+#nonzeros/#features = 0/21
+=========================
+optimization finished, #iter = 0
+Objective value = -nan
+#nonzeros/#features = 0/21
+=========================
+optimization finished, #iter = 0
+Objective value = -nan
+#nonzeros/#features = 0/21
+=========================
+optimization finished, #iter = 0
+Objective value = -nan
+#nonzeros/#features = 0/21
+=========================
+optimization finished, #iter = 0
+Objective value = -nan
+#nonzeros/#features = 0/21
+Cross Validation Accuracy = 41.8736%
+#############################################################################
+T8
+Features used:
+["comment_positivity_corr", "comment_negativity_corr", "pos_neu_bigram_count", "pos_pos_bigram_count", "neu_pos_bigram_count", "pos_neg_bigram_count", "neu_neg_bigram_count", "neu_neu_bigram_count", "neg_neu_bigram_count", "neg_pos_bigram_count", "neg_neg_bigram_count"]
+======================================
+
+=========================
+optimization finished, #iter = 0
+Objective value = -nan
+#nonzeros/#features = 0/21
+=========================
+optimization finished, #iter = 0
+Objective value = -nan
+#nonzeros/#features = 0/21
+=========================
+optimization finished, #iter = 0
+Objective value = -nan
+#nonzeros/#features = 0/21
+=========================
+optimization finished, #iter = 0
+Objective value = -nan
+#nonzeros/#features = 0/21
+=========================
+optimization finished, #iter = 0
+Objective value = -nan
+#nonzeros/#features = 0/21
+=========================
+optimization finished, #iter = 0
+Objective value = -nan
+#nonzeros/#features = 0/21
+=========================
+optimization finished, #iter = 0
+Objective value = -nan
+#nonzeros/#features = 0/21
+=========================
+optimization finished, #iter = 0
+Objective value = -nan
+#nonzeros/#features = 0/21
+=========================
+optimization finished, #iter = 0
+Objective value = -nan
+#nonzeros/#features = 0/21
+=========================
+optimization finished, #iter = 0
+Objective value = -nan
+#nonzeros/#features = 0/21
+Cross Validation Accuracy = 41.8736%
+#############################################################################
+T9
+Features used:
+["pos_pos_bigram_count", "pos_neg_bigram_count", "neg_pos_bigram_count", "neg_neg_bigram_count"]
+======================================
+
+iter   1  #CD cycles 1
+iter   2  #CD cycles 1
+iter   3  #CD cycles 1
+iter   4  #CD cycles 8
+iter   5  #CD cycles 2
+iter   6  #CD cycles 1
+iter   7  #CD cycles 8
+=========================
+optimization finished, #iter = 7
+Objective value = 295085.553108
+#nonzeros/#features = 4/16
+iter   1  #CD cycles 1
+iter   2  #CD cycles 1
+iter   3  #CD cycles 6
+iter   4  #CD cycles 1
+iter   5  #CD cycles 6
+iter   6  #CD cycles 3
+iter   7  #CD cycles 3
+iter   8  #CD cycles 2
+iter   9  #CD cycles 1
+iter  10  #CD cycles 7
+=========================
+optimization finished, #iter = 10
+Objective value = 295076.037442
+#nonzeros/#features = 4/16
+iter   1  #CD cycles 1
+iter   2  #CD cycles 1
+iter   3  #CD cycles 2
+iter   4  #CD cycles 3
+iter   5  #CD cycles 1
+iter   6  #CD cycles 3
+iter   7  #CD cycles 2
+iter   8  #CD cycles 4
+iter   9  #CD cycles 1
+iter  10  #CD cycles 7
+iter  11  #CD cycles 3
+=========================
+optimization finished, #iter = 11
+Objective value = 295006.323776
+#nonzeros/#features = 4/16
+iter   1  #CD cycles 1
+iter   2  #CD cycles 1
+iter   3  #CD cycles 4
+iter   4  #CD cycles 1
+iter   5  #CD cycles 6
+iter   6  #CD cycles 3
+iter   7  #CD cycles 1
+iter   8  #CD cycles 8
+=========================
+optimization finished, #iter = 8
+Objective value = 295064.224242
+#nonzeros/#features = 4/16
+iter   1  #CD cycles 1
+iter   2  #CD cycles 1
+iter   3  #CD cycles 6
+iter   4  #CD cycles 1
+iter   5  #CD cycles 8
+iter   6  #CD cycles 2
+iter   7  #CD cycles 1
+iter   8  #CD cycles 7
+=========================
+optimization finished, #iter = 8
+Objective value = 295064.888934
+#nonzeros/#features = 4/16
+iter   1  #CD cycles 1
+iter   2  #CD cycles 1
+iter   3  #CD cycles 4
+iter   4  #CD cycles 3
+iter   5  #CD cycles 1
+iter   6  #CD cycles 7
+iter   7  #CD cycles 2
+iter   8  #CD cycles 1
+iter   9  #CD cycles 6
+=========================
+optimization finished, #iter = 9
+Objective value = 295018.014094
+#nonzeros/#features = 4/16
+iter   1  #CD cycles 1
+iter   2  #CD cycles 1
+iter   3  #CD cycles 4
+iter   4  #CD cycles 1
+iter   5  #CD cycles 8
+iter   6  #CD cycles 1
+iter   7  #CD cycles 12
+=========================
+optimization finished, #iter = 7
+Objective value = 295044.574139
+#nonzeros/#features = 4/16
+iter   1  #CD cycles 1
+iter   2  #CD cycles 1
+iter   3  #CD cycles 3
+iter   4  #CD cycles 2
+iter   5  #CD cycles 1
+iter   6  #CD cycles 8
+iter   7  #CD cycles 1
+iter   8  #CD cycles 9
+=========================
+optimization finished, #iter = 8
+Objective value = 295063.627184
+#nonzeros/#features = 4/16
+iter   1  #CD cycles 1
+iter   2  #CD cycles 1
+iter   3  #CD cycles 1
+iter   4  #CD cycles 2
+iter   5  #CD cycles 3
+iter   6  #CD cycles 6
+iter   7  #CD cycles 1
+iter   8  #CD cycles 6
+=========================
+optimization finished, #iter = 8
+Objective value = 295015.708254
+#nonzeros/#features = 4/16
+iter   1  #CD cycles 1
+iter   2  #CD cycles 1
+iter   3  #CD cycles 5
+iter   4  #CD cycles 1
+iter   5  #CD cycles 7
+iter   6  #CD cycles 2
+iter   7  #CD cycles 1
+iter   8  #CD cycles 6
+=========================
+optimization finished, #iter = 8
+Objective value = 295061.036004
+#nonzeros/#features = 4/16
+Cross Validation Accuracy = 57.7657%
+#############################################################################
+T10
+Features used:
+["comment_positivity_corr", "comment_negativity_corr", "pos_pos_bigram_count", "pos_neg_bigram_count", "neg_pos_bigram_count", "neg_neg_bigram_count"]
+======================================
+
+=========================
+optimization finished, #iter = 0
+Objective value = -nan
+#nonzeros/#features = 0/21
+=========================
+optimization finished, #iter = 0
+Objective value = -nan
+#nonzeros/#features = 0/21
+=========================
+optimization finished, #iter = 0
+Objective value = -nan
+#nonzeros/#features = 0/21
+=========================
+optimization finished, #iter = 0
+Objective value = -nan
+#nonzeros/#features = 0/21
+=========================
+optimization finished, #iter = 0
+Objective value = -nan
+#nonzeros/#features = 0/21
+=========================
+optimization finished, #iter = 0
+Objective value = -nan
+#nonzeros/#features = 0/21
+=========================
+optimization finished, #iter = 0
+Objective value = -nan
+#nonzeros/#features = 0/21
+=========================
+optimization finished, #iter = 0
+Objective value = -nan
+#nonzeros/#features = 0/21
+=========================
+optimization finished, #iter = 0
+Objective value = -nan
+#nonzeros/#features = 0/21
+=========================
+optimization finished, #iter = 0
+Objective value = -nan
+#nonzeros/#features = 0/21
+Cross Validation Accuracy = 56.5274%
+#############################################################################
+T19
+Words used:                                                                     
+[u'help', u'course', u'grades', u'questions', u'go', u'interesting', u'willing', u'pretty', u'teaching', u'homework', u'tests', u'good', u'get', u'quizzes', u'material', u'every', u'know', u'lecture', u'taking', u'highly', u'helpful', u'like', u'always', u'notes', u'assignments', u'difficult', u'hard', u'best', u'really', u'even', u'everything', u'papers', u'prof', u'learned', u'reading', u'ever', u'got', u'never', u'teach', u'teaches', u'teacher', u'great', u'study', u'youll', u'exams', u'makes', u'first', u'love', u'dont', u'extra', u'grade', u'one', u'semester', u'doesnt', u'little', u'would', u'long', u'going', u'way', u'recommend', u'final', u'gives', u'wants', u'easy', u'took', u'understand', u'made', u'boring', u'work', u'us', u'classes', u'learn', u'fun', u'didnt', u'professor', u'ive', u'give', u'awesome', u'want', u'need', u'knows', u'funny', u'things', u'make', u'also', u'amazing', u'book', u'take', u'online', u'test', u'subject', u'nice', u'lectures', u'sure', u'though', u'students', u'much', u'lot', u'extremely', u'class', u'read', u'clear', u'well', u'person', u'definitely', u'time']
+Writing temp files for AUC calculation..
+Temp file written..
+Features used:
+["clarity", "easiness", "helpfulness", "interest_level", "overall_quality", "state", "discipline", "pos_pos_bigram_count", "pos_neu_bigram_count", "pos_neg_bigram_count", "neu_pos_bigram_count", "neu_neu_bigram_count", "neu_neg_bigram_count", "neg_pos_bigram_count", "neg_neu_bigram_count", "neg_neg_bigram_count", "num_comments", "num_commas", "num_quotes", "num_semicolons", "num_colons", "num_pauses", "num_questions", "num_exclamations", "ADV", "NOUN", "ADP", "PRT", "DET", "PRON", "VERB", "NUM", "CONJ", "ADJ", ".", "X", "num_unq_words", "num_positive_words", "num_negative_words", "num_positive_comments", "num_negative_comments"]
+======================================
+
+iter   1  #CD cycles 1
+iter   2  #CD cycles 1
+iter   3  #CD cycles 2
+iter   4  #CD cycles 1
+iter   5  #CD cycles 15
+iter   6  #CD cycles 2
+iter   7  #CD cycles 1
+iter   8  #CD cycles 99
+iter   9  #CD cycles 26
+iter  10  #CD cycles 2
+=========================
+optimization finished, #iter = 10
+Objective value = 237349.206929
+#nonzeros/#features = 147/153
+iter   1  #CD cycles 1
+iter   2  #CD cycles 1
+iter   3  #CD cycles 1
+iter   4  #CD cycles 6
+iter   5  #CD cycles 5
+iter   6  #CD cycles 2
+iter   7  #CD cycles 2
+iter   8  #CD cycles 1
+iter   9  #CD cycles 112
+iter  10  #CD cycles 3
+=========================
+optimization finished, #iter = 10
+Objective value = 237863.131010
+#nonzeros/#features = 147/153
+iter   1  #CD cycles 1
+iter   2  #CD cycles 1
+iter   3  #CD cycles 1
+iter   4  #CD cycles 14
+iter   5  #CD cycles 1
+iter   6  #CD cycles 118
+iter   7  #CD cycles 4
+=========================
+optimization finished, #iter = 7
+Objective value = 237856.989980
+#nonzeros/#features = 147/153
+iter   1  #CD cycles 1
+iter   2  #CD cycles 1
+iter   3  #CD cycles 1
+iter   4  #CD cycles 11
+iter   5  #CD cycles 1
+iter   6  #CD cycles 130
+iter   7  #CD cycles 6
+=========================
+optimization finished, #iter = 7
+Objective value = 237510.898999
+#nonzeros/#features = 147/153
+iter   1  #CD cycles 1
+iter   2  #CD cycles 1
+iter   3  #CD cycles 1
+iter   4  #CD cycles 10
+iter   5  #CD cycles 5
+iter   6  #CD cycles 4
+iter   7  #CD cycles 1
+iter   8  #CD cycles 101
+iter   9  #CD cycles 7
+iter  10  #CD cycles 9
+iter  11  #CD cycles 20
+=========================
+optimization finished, #iter = 11
+Objective value = 237371.631488
+#nonzeros/#features = 147/153
+iter   1  #CD cycles 1
+iter   2  #CD cycles 1
+iter   3  #CD cycles 1
+iter   4  #CD cycles 12
+iter   5  #CD cycles 4
+iter   6  #CD cycles 3
+iter   7  #CD cycles 1
+iter   8  #CD cycles 108
+iter   9  #CD cycles 1
+iter  10  #CD cycles 310
+=========================
+optimization finished, #iter = 10
+Objective value = 236255.536827
+#nonzeros/#features = 147/153
+iter   1  #CD cycles 1
+iter   2  #CD cycles 1
+iter   3  #CD cycles 1
+iter   4  #CD cycles 8
+iter   5  #CD cycles 1
+iter   6  #CD cycles 132
+iter   7  #CD cycles 2
+=========================
+optimization finished, #iter = 7
+Objective value = 237691.373636
+#nonzeros/#features = 147/153
+iter   1  #CD cycles 1
+iter   2  #CD cycles 1
+iter   3  #CD cycles 1
+iter   4  #CD cycles 8
+iter   5  #CD cycles 5
+iter   6  #CD cycles 1
+iter   7  #CD cycles 110
+iter   8  #CD cycles 11
+iter   9  #CD cycles 1
+=========================
+optimization finished, #iter = 9
+Objective value = 237733.617388
+#nonzeros/#features = 147/153
+iter   1  #CD cycles 1
+iter   2  #CD cycles 1
+iter   3  #CD cycles 1
+iter   4  #CD cycles 9
+iter   5  #CD cycles 3
+iter   6  #CD cycles 1
+iter   7  #CD cycles 87
+iter   8  #CD cycles 35
+iter   9  #CD cycles 3
+iter  10  #CD cycles 2
+=========================
+optimization finished, #iter = 10
+Objective value = 237518.693124
+#nonzeros/#features = 147/153
+iter   1  #CD cycles 1
+iter   2  #CD cycles 1
+iter   3  #CD cycles 1
+iter   4  #CD cycles 10
+iter   5  #CD cycles 1
+iter   6  #CD cycles 120
+iter   7  #CD cycles 27
+iter   8  #CD cycles 5
+=========================
+optimization finished, #iter = 8
+Objective value = 237446.185940
+#nonzeros/#features = 147/153
+Cross Validation Accuracy = 72.3891%
+Evaluating..
+
+AUC = 0.790202
+72.38911336370319
+
+T20
+Words used:                                                                     
+['show', 'go', 'enjoyed', 'feedback', 'explain', 'going', 'pretty', 'teaching', 'interested', 'get', 'quizzes', 'overall', 'every', 'lecture', 'dr', XXXX'cool'XXXX, 'school', 'ever', 'notes', 'isnt', 'assignments', 'bad', 'stuff', __'guy'__, 'fair', 'pass', 'best', 'subject', 'even', 'lots', __'3'__, 'goes', 'learned', 'reading', 'youll', 'attention', 'exam', 'got', 'never', 'points', 'however', 'understanding', 'hours', 'teaches', 'teacher', XXXX'great'XXXX, 'many', 'study', 'experience', 'credit', 'exams', 'makes', 'tough', 'extra', XXXX'sweet'XXXX, 'highly', 'put', 'semester', 'learning', 'writing', 'use', 'attendance', 'takes', 'would', 'cares', 'come', 'two', 'much', 'recommend', 'taken', 'wants', 'life', 'knows', 'readings', 'understand', 'instructor', 'midterm', 'work', 'teachers', 'learn', 'fun', 'didnt', 'taking', 'ive', 'give', 'awesome', 'cant', 'something', 'want', XXXX'sense'XXXX, XXXX'wonderful'XXXX, XXXX'funny'XXXX, 'end', 'things', 'make', 'write', 'far', XXXX'amazing'XXXX, 'answer', 'difficult', 'week', 'lab', 'student', __'man'__, 'youre', 'well', XXXX'person'XXXX, 'pay', XXXX'worst'XXXX, 'talk', 'help', 'office', 'knowledgeable', 'expects', 'professors', 'course', 'grades', 'grader', 'questions', XXXX'love'XXXX, 'still', 'group', 'interesting', 'seems', 'actually', 'better', 'feel', 'willing', 'easy', 'homework', 'gave', 'real', 'tests', 'good', 'read', 'material', 'know', 'bit', __'lady'__, 'day', 'like', 'wont', 'helpful', 'always', 'passionate', 'everyone', 'people', 'hard', 'back', 'taught', __'shes'__, 'really', 'grading', 'everything', 'papers', 'prof', 'math', 'paper', 'ask', 'teach', 'super', 'anything', 'could', 'times', 'due', 'think', 'first', 'dont', 'grade', 'one', 'doesnt', 'another', 'open', 'little', __'hes'__, 'long', __'2'__, 'way', 'final', 'gives', 'lot', 'took', XXXX'loved'XXXX, 'kind', 'made', 'boring', 'us', 'classes', 'loves', 'clear', 'textbook', 'talking', 'say', 'need', 'also', 'book', 'take', 'online', 'test', 'nice', 'lectures', 'sure', 'though', 'students', 'english', 'problems', 'extremely', 'class', 'professor', 'sometimes', 'definitely', 'time']
+Writing temp files for AUC calculation..
+Temp file written..
+Features used:
+["clarity", "easiness", "helpfulness", "interest_level", "overall_quality", "state", "discipline", "pos_pos_bigram_count", "pos_neu_bigram_count", "pos_neg_bigram_count", "neu_pos_bigram_count", "neu_neu_bigram_count", "neu_neg_bigram_count", "neg_pos_bigram_count", "neg_neu_bigram_count", "neg_neg_bigram_count", "num_comments", "num_commas", "num_quotes", "num_semicolons", "num_colons", "num_pauses", "num_questions", "num_exclamations", "ADV", "NOUN", "ADP", "PRT", "DET", "PRON", "VERB", "NUM", "CONJ", "ADJ", ".", "X", "num_unq_words", "num_positive_words", "num_negative_words", "num_positive_comments", "num_negative_comments"]
+======================================
+
+iter   1  #CD cycles 1
+iter   2  #CD cycles 1
+iter   3  #CD cycles 1
+iter   4  #CD cycles 6
+iter   5  #CD cycles 1
+iter   6  #CD cycles 96
+iter   7  #CD cycles 15
+=========================
+optimization finished, #iter = 7
+Objective value = 221922.336223
+#nonzeros/#features = 246/252
+iter   1  #CD cycles 1
+iter   2  #CD cycles 1
+iter   3  #CD cycles 1
+iter   4  #CD cycles 6
+iter   5  #CD cycles 150:
+iter   6  #CD cycles 85
+iter   7  #CD cycles 24
+=========================
+optimization finished, #iter = 7
+Objective value = 222154.366074
+#nonzeros/#features = 246/252
+iter   1  #CD cycles 1
+iter   2  #CD cycles 1
+iter   3  #CD cycles 1
+iter   4  #CD cycles 6
+iter   5  #CD cycles 4
+iter   6  #CD cycles 1
+iter   7  #CD cycles 89
+iter   8  #CD cycles 10
+=========================
+optimization finished, #iter = 8
+Objective value = 222160.443238
+#nonzeros/#features = 246/252
+iter   1  #CD cycles 1
+iter   2  #CD cycles 1
+iter   3  #CD cycles 1
+iter   4  #CD cycles 7
+iter   5  #CD cycles 1
+iter   6  #CD cycles 108
+iter   7  #CD cycles 8
+=========================
+optimization finished, #iter = 7
+Objective value = 222039.475809
+#nonzeros/#features = 246/252
+iter   1  #CD cycles 1
+iter   2  #CD cycles 1
+iter   3  #CD cycles 1
+iter   4  #CD cycles 6
+iter   5  #CD cycles 1
+iter   6  #CD cycles 102
+iter   7  #CD cycles 2
+=========================
+optimization finished, #iter = 7
+Objective value = 222300.389536
+#nonzeros/#features = 246/252
+iter   1  #CD cycles 1
+iter   2  #CD cycles 1
+iter   3  #CD cycles 1
+iter   4  #CD cycles 4
+iter   5  #CD cycles 3
+iter   6  #CD cycles 3
+iter   7  #CD cycles 1
+iter   8  #CD cycles 98
+iter   9  #CD cycles 4
+=========================
+optimization finished, #iter = 9
+Objective value = 222184.406818
+#nonzeros/#features = 246/252
+iter   1  #CD cycles 1
+iter   2  #CD cycles 1
+iter   3  #CD cycles 1
+iter   4  #CD cycles 7
+iter   5  #CD cycles 1
+iter   6  #CD cycles 94
+iter   7  #CD cycles 12
+iter   8  #CD cycles 3
+iter   9  #CD cycles 1
+=========================
+optimization finished, #iter = 9
+Objective value = 222098.810431
+#nonzeros/#features = 246/252
+iter   1  #CD cycles 1
+iter   2  #CD cycles 1
+iter   3  #CD cycles 1
+iter   4  #CD cycles 6
+iter   5  #CD cycles 3
+iter   6  #CD cycles 1
+iter   7  #CD cycles 88
+iter   8  #CD cycles 17
+=========================
+optimization finished, #iter = 8
+Objective value = 222199.905390
+#nonzeros/#features = 246/252
+iter   1  #CD cycles 1
+iter   2  #CD cycles 1
+iter   3  #CD cycles 1
+iter   4  #CD cycles 6
+iter   5  #CD cycles 3
+iter   6  #CD cycles 1
+iter   7  #CD cycles 92
+iter   8  #CD cycles 5
+=========================
+optimization finished, #iter = 8
+Objective value = 222363.300846
+#nonzeros/#features = 246/252
+iter   1  #CD cycles 1
+iter   2  #CD cycles 1
+iter   3  #CD cycles 1
+iter   4  #CD cycles 6
+iter   5  #CD cycles 2
+iter   6  #CD cycles 1
+iter   7  #CD cycles 99
+iter   8  #CD cycles 2
+=========================
+optimization finished, #iter = 8
+Objective value = 222317.847830
+#nonzeros/#features = 246/252
+Cross Validation Accuracy = 74.8847%
+Evaluating..
+
+AUC = 0.821361
+74.88465962650898

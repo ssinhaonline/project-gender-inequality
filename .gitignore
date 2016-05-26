@@ -1,0 +1,10 @@
+
+_build/**
+_static/**
+_templates/**
+experiments/**
+fixtures/**
+geq/**
+trash/**
+project_gender_inequality/liblinear-2.1/**
+project_gender_inequality/weka-3-6-13/**

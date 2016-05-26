@@ -1,0 +1,51 @@
+​<Trial #>  	​Features 	​Accuracy(all profs)
+	​Accuracy(profs with 10+ comments) 	Accuracy(profs with 20+ comments)​
+​1 	​Clarity + Easiness + Helpfulness 	​55.6012% 	​58.1249% 	​60.3236%
+​2 	​(1) + Overall Quality 	​55.5975% 	​58.1239% 	​60.3244%
+​3 	​(2) + Interest Level 	​55.5696% 	​58.1212% 	​60.3232%
+​4 	​(3) + Discipline (Top 71 disciplines only, others ignored) 	​55.5935% 	​58.1293% 	​60.3214%
+​5 	​(4) + State (Republican / Democratic) 	​55.5907% 	​58.1216% 	​60.324%
+​6 	​(1) + Interest Level + Clar_History_Correlation + Ease_History_Correlation + Help_History_Correlation + Interest_History_Correlation 	44.4229%​ 	43.5441%​ 	41.656%​
+​7 	​Comment_Positivity_Correlation + Comment_Negativity_Correlation
+	​54.4157 	​41.8736% 	​39.676%
+​8 	​(7) + Bigram_Counts(pos_pos, pos_neu, ... , neg_neg)
+	​44.4429% 	​41.8736% 	​58.1471%
+​9 	​Bigram_counts(pos_pos, pos_neg, neg_pos, neg_neg) 	​54.9803% 	​57.7657% 	​60.1348%
+​10 	​(7) + (9)	​45.5411% 	​56.5274% 	​39.676%
+​<Trial #>  	Features 	Accuracy(profs with 10+ comments) 	AUC Score
+11 	Num_Comments + Num_Unique_Words + Num_Positive_Words + Num_Negative_Words + Num_Positive_Comments + Num_Negative_Comments
+	58.1467% 	55.8091%
+12
+	Clarity + Helpfulness + Easiness + Num_Comments + Num_Unique_Words + Num_Question_Marks + Num_Exclamation_Marks + 9 POS Tags (excl. 'NUM', '.' and 'X')
+	61.7832% 	64.357%
+13 	9 Bigram_Counts + Num_Positive_Words + Num_Negative_Words + Num_Positive_Comments + Num_Negative_Comments
+	59.1496% 	59.1736%
+14 	12 POS Tags
+	61.4744% 	62.5586%
+15 	Num_Comments + Num_Unique_Words + Num_Question_Marks + Num_Exclamation_Marks + 12 POS Tags + Num_Commas + Num_Quotes + Num_Semicolons + Num_Colons + Num_Pauses
+	61.6601%
+	63.9978%
+16 	Features of 15, but using 9 POS Tags
+	61.9536% 	63.8853%
+17 	All features from Trial 1 to 10 + (11) + (15) excluding the comment history correlations
+	63.0535% 	66.3875%
+18 	All features (features from Trial 1 to 17) excluding the comment history correlations
+	63.6037% 	67.2293%	
+19
+	Trial 18 + 106 words
+	72.3891%
+	79.0202%
+20
+	Trial 18 + 205 words
+	74.8846%
+	82.1361%
+21
+	Trial 20 + Std_dev(Clarity) + Std_dev(Helpfulness) + Std_dev(Easiness) + Std_dev(Interest_level) + Ratio(Pos_neg_words) + Ratio(pos_neg_comments)
+	 41.8736%
+	50.0265%
+22
+	Trial 20 + Ratio(Pos_neg_words) + Ratio(pos_neg_comments)
+	41.8736% 	50.0265%
+
+	​Dataset male %
+	​55.5771% 	​58.1264% 	​60.324%

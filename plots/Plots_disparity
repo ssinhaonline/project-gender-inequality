@@ -1,0 +1,295 @@
+Discipline_division;
+% 
+% % Create axes
+% axes1 = axes('Parent',Parent1);
+% hold(axes1,'on');
+% 
+% % Create scatter
+% scatter(X1,Y1,S1,C1);
+% 
+% % Create text
+% text('Parent',axes1,'String','English',...
+%     'Position',[100519.001 -0.0126484685279537 0]);
+% 
+% % Create text
+% text('Parent',axes1,'String','Mathematics',...
+%     'Position',[79932.001 0.0179137227242184 0]);
+% 
+% % Create text
+% text('Parent',axes1,'String','Psychology',...
+%     'Position',[46069.001 -0.000635535540171523 0]);
+% 
+% % Create text
+% text('Parent',axes1,'String','Biology',...
+%     'Position',[42931.001 -0.010257828735257 0]);
+% 
+% % Create text
+% text('Parent',axes1,'String','History',...
+%     'Position',[37429.001 -0.0222759881184057 0]);
+% 
+% % Create text
+% text('Parent',axes1,'String','Business',...
+%     'Position',[29895.001 -0.00905208167324722 0]);
+% 
+% % Create text
+% text('Parent',axes1,'String','Communication',...
+%     'Position',[28304.001 -0.00904766775179724 0]);
+% 
+% % Create text
+% text('Parent',axes1,'String','Chemistry',...
+%     'Position',[26636.001 -0.00254335848729771 0]);
+% 
+% % Create text
+% text('Parent',axes1,'String','Computer Science',...
+%     'Position',[25621.001 -0.00941793322956893 0]);
+% 
+% % Create text
+% text('Parent',axes1,'String','Languages',...
+%     'Position',[23401.001 -0.00462377544272808 0]);
+% 
+% % Create text
+% text('Parent',axes1,'String','Education',...
+%     'Position',[23105.001 -0.0222887491273941 0]);
+% 
+% % Create text
+% text('Parent',axes1,'String','Economics',...
+%     'Position',[20960.001 -0.00958844166872787 0]);
+% 
+% % Create text
+% text('Parent',axes1,'String','Sociology',...
+%     'Position',[20873.001 0.000851012182770659 0]);
+% 
+% % Create text
+% text('Parent',axes1,'String','Political Science',...
+%     'Position',[20865.001 -0.0126602441324213 0]);
+% 
+% % Create text
+% text('Parent',axes1,'String','Philosophy',...
+%     'Position',[18873.001 -0.0122842951122036 0]);
+% 
+% % Create text
+% text('Parent',axes1,'String','Music',...
+%     'Position',[17620.001 -0.0112108898057222 0]);
+% 
+% % Create text
+% text('Parent',axes1,'String','Engineering',...
+%     'Position',[17117.001 -0.00746355635063106 0]);
+% 
+% % Create text
+% text('Parent',axes1,'String','Accounting',...
+%     'Position',[16803.001 0.00390931900338042 0]);
+% 
+% % Create text
+% text('Parent',axes1,'String','Science',...
+%     'Position',[13891.001 -0.00558659738367332 0]);
+% 
+% % Create text
+% text('Parent',axes1,'String','Fine Arts',...
+%     'Position',[12872.001 -0.0226932383462709 0]);
+% 
+% % Create text
+% text('Parent',axes1,'String','Physics',...
+%     'Position',[12440.001 -0.0184496537339563 0]);
+% 
+% % Create text
+% text('Parent',axes1,'String','Nursing',...
+%     'Position',[11650.001 -0.0401710407639746 0]);
+% 
+% % Create text
+% text('Parent',axes1,'String','Health Science',...
+%     'Position',[10807.001 -0.0171599630782201 0]);
+% 
+% % Create text
+% text('Parent',axes1,'String','Anthropology',...
+%     'Position',[10467.001 -0.00657909218008434 0]);
+% 
+% % Create text
+% text('Parent',axes1,'String','Criminal Justice',...
+%     'Position',[10108.001 -0.0269126436434065 0]);
+% 
+% % Create text
+% text('Parent',axes1,'String','Law',...
+%     'Position',[9000.001 -0.0159937349129073 0]);
+% 
+% % Create text
+% text('Parent',axes1,'String','Management',...
+%     'Position',[8484.001 -0.00667304800235257 0]);
+% 
+% % Create text
+% text('Parent',axes1,'String','Humanities',...
+%     'Position',[7883.001 -0.0128974509714665 0]);
+% 
+% % Create text
+% text('Parent',axes1,'String','Theater',...
+%     'Position',[7389.001 -0.0104912007037208 0]);
+% 
+% % Create text
+% text('Parent',axes1,'String','Marketing',...
+%     'Position',[7302.001 -0.010080487027842 0]);
+% 
+% % Create text
+% text('Parent',axes1,'String','Geography',...
+%     'Position',[7184.001 -0.0146600372461665 0]);
+% 
+% % Create text
+% text('Parent',axes1,'String','Religion',...
+%     'Position',[6328.001 -0.0251878405455836 0]);
+% 
+% % Create text
+% text('Parent',axes1,'String','Art History',...
+%     'Position',[6283.001 -0.012391507584014 0]);
+% 
+% % Create text
+% text('Parent',axes1,'String','Writing',...
+%     'Position',[5949.001 -0.0150218735440734 0]);
+% 
+% % Create text
+% text('Parent',axes1,'String','Social Science',...
+%     'Position',[5601.001 -0.00459490686102636 0]);
+% 
+% % Create text
+% text('Parent',axes1,'String','Finance',...
+%     'Position',[5600.001 -0.00967193280159909 0]);
+% 
+% % Create text
+% text('Parent',axes1,'String','Art',...
+%     'Position',[5389.001 -0.0196633327465049 0]);
+% 
+% % Create text
+% text('Parent',axes1,'String','Not Specified',...
+%     'Position',[5131.001 -0.00920863073833608 0]);
+% 
+% % Create text
+% text('Parent',axes1,'String','Social Work',...
+%     'Position',[5049.001 -0.0159253636957979 0]);
+% 
+% % Create text
+% text('Parent',axes1,'String','Geology',...
+%     'Position',[4834.001 -0.00599098424302646 0]);
+% 
+% % Create text
+% text('Parent',axes1,'String','Spanish',...
+%     'Position',[4448.001 -0.00403630735443053 0]);
+% 
+% % Create text
+% text('Parent',axes1,'String','Physical Ed',...
+%     'Position',[4419.001 -0.00442527129488084 0]);
+% 
+% % Create text
+% text('Parent',axes1,'String','Journalism',...
+%     'Position',[3701.001 -0.0262925680297242 0]);
+% 
+% % Create text
+% text('Parent',axes1,'String','Physical Education',...
+%     'Position',[3325.001 -0.0118519171972616 0]);
+% 
+% % Create text
+% text('Parent',axes1,'String','Theology',...
+%     'Position',[3215.001 -0.026432267790682 0]);
+% 
+% % Create text
+% text('Parent',axes1,'String','Graphic Arts',...
+%     'Position',[3080.001 -0.0226660336872454 0]);
+% 
+% % Create text
+% text('Parent',axes1,'String','Film',...
+%     'Position',[3078.001 -0.0292956245247787 0]);
+% 
+% % Create text
+% text('Parent',axes1,'String','Architecture',...
+%     'Position',[3025.001 -0.0381181938200746 0]);
+% 
+% % Create text
+% text('Parent',axes1,'String','Literature',...
+%     'Position',[2910.001 -0.00213695764832336 0]);
+% 
+% % Create text
+% text('Parent',axes1,'String','Design',...
+%     'Position',[2799.001 -0.0353465453969066 0]);
+% 
+% % Create text
+% text('Parent',axes1,'String','Women''S Studies',...
+%     'Position',[2663.001 -0.0179761267376219 0]);
+% 
+% % Create text
+% text('Parent',axes1,'String','Classics',...
+%     'Position',[2158.001 -0.0153166960543822 0]);
+% 
+% % Create text
+% text('Parent',axes1,'String','Information Science',...
+%     'Position',[2034.001 -0.0141703345117154 0]);
+% 
+% % Create text
+% text('Parent',axes1,'String','Ethnic Studies',...
+%     'Position',[1848.001 -0.0176103287139742 0]);
+% 
+% % Create text
+% text('Parent',axes1,'String','Biological Sciences',...
+%     'Position',[1776.001 -0.0084930127627212 0]);
+% 
+% % Create text
+% text('Parent',axes1,'String','Hospitality',...
+%     'Position',[1718.001 -0.0188058142544471 0]);
+% 
+% % Create text
+% text('Parent',axes1,'String','Statistics',...
+%     'Position',[1714.001 -0.00130729832810005 0]);
+% 
+% % Create text
+% text('Parent',axes1,'String','French',...
+%     'Position',[1693.001 0.00106126828862002 0]);
+% 
+% % Create text
+% text('Parent',axes1,'String','Speech',...
+%     'Position',[1690.001 -0.0114462155794042 0]);
+% 
+% % Create text
+% text('Parent',axes1,'String','Agriculture',...
+%     'Position',[1637.001 -0.0131389417909179 0]);
+% 
+% % Create text
+% text('Parent',axes1,'String','Business Administration',...
+%     'Position',[1565.001 -0.000730980837936855 0]);
+% 
+% % Create text
+% text('Parent',axes1,'String','International Studies',...
+%     'Position',[1556.001 -0.00999250367725757 0]);
+% 
+% % Create text
+% text('Parent',axes1,'String','Kinesiology',...
+%     'Position',[1528.001 -0.0201820190588109 0]);
+% 
+% % Create text
+% text('Parent',axes1,'String','Electrical Engineering',...
+%     'Position',[1493.001 -0.03160174474806 0]);
+% 
+% % Create text
+% text('Parent',axes1,'String','Foreign Languages',...
+%     'Position',[1459.001 -0.00418441683460746 0]);
+% 
+% % Create text
+% text('Parent',axes1,'String','Government',...
+%     'Position',[1383.001 -0.0133998591786196 0]);
+% 
+% % Create text
+% text('Parent',axes1,'String','Mechanical Engineering',...
+%     'Position',[1342.001 -0.0111108900988432 0]);
+% 
+% % Create text
+% text('Parent',axes1,'String','Medicine',...
+%     'Position',[1300.001 -0.014007942731412 0]);
+% 
+% % Create text
+% text('Parent',axes1,'String','Computer Information Systems',...
+%     'Position',[1248.001 -0.00568904943783676 0]);
+% 
+% % Create text
+% text('Parent',axes1,'String','English As A Second Language',...
+%     'Position',[1101.001 -0.0303992589206262 0]);
+% 
+% % Create text
+% text('Parent',axes1,'String','Linguistics',...
+%     'Position',[1043.001 -0.00489263254389564 0]);
+% 
+% % Set the remaining axes properties
+% set(axes1,'XAxisLocation','origin','XScale','log','YAxisLocation','origin');

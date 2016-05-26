@@ -1,0 +1,40 @@
+
+
+    When rating a professor, refer to these definitions of Rate My Professors' ratings categories.
+
+    Overall Quality (good: 5-3.5, Average: 3.4-2.5, poor: 2.4-1)
+
+    The average of a professor's Helpfulness and Clarity ratings determines the type of "smiley face" the professor gets. The Easiness and Hotness ratings are not included in the Overall Quality calculation.
+
+    helpfulness (very helpful: 5, not helpful: 1)
+
+    Is this professor approachable, nice and easy to communicate with? How accessible is the professor and is he/she available during office hours or after class for additional help?
+
+    clarity (crystal clear: 5, confusing: 1)
+
+    How well does the professor teach the course material? Were you able to understand the class topics based on the professor's teaching methods and communication style?
+
+    The following rating categories do not factor into the overall quality score given to a professor:
+
+    Easiness (easy: 5, hard: 1)
+
+    Some students want to know how easy or difficult a class is before they register. Is this class an easy A? How much work needs to be done in order to get a good grade?
+
+    interest level (high: 5, low: 1)
+
+    How much interest did the student have in the class subject before enrolling in the class? Is this subject one of your passions, or are you only taking the class to fulfill mandatory credits? An Interest Level rating of 5 means the student was very interested in the subject before taking the class. An Interest Level rating of 1 means the student had no interest in the subject before taking the class. This category is not included in the Overall Quality rating.
+
+    textbook use (often: 5, barely: 1)
+
+    Did this professor use the suggested textbook often or not at all?
+
+    professor hotness
+
+    Is your professor hot? Hot professors get a red chili pepper rating.
+
+    Average grade
+
+    Raters can share the grades they received in a professor's class when rating the professor. The Average Grade a professor gives is calculated from the grades indicated by raters. N/A means a grade hasn't been provided.
+
+    We reserve the right to make any changes to the Ratings Categories and scoring in our sole discretion.
+
